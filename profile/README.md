@@ -30,14 +30,18 @@ Besides our shared interests and passions, we also share some frustrations and i
 
 As a first step, we aim to define an open standard for representing computational graphs and related data. We believe this is a solid foundation since it sits at the core of the challenges we mentioned above.
 
-This standard includes a storage layer based on a graph database, along with a GraphQL API for interacting with the data. Both the API and the storage layer are designed to be easily extensible. Alongside the specification, we are building a reference implementation.
+This standard includes a storage layer based on a graph database, along with a GraphQL API for interacting with the data. Both the API and the storage layer are designed to be easily extensible. Alongside the specification, we are building a [reference implementation](https://github.com/graphroots/GraphRootsApi).
+
+> [!NOTE]  
+> Both the spec and the reference implementation still evolve quickly. 
+> We expect to stabilize them until the end of 2026. 
 
 To get things started, we are also developing client applications:
 
-* A parser for Grasshopper models that writes snapshots through the GraphQL API
-* An explorer for visualizing the imported data
+* A [parser for Grasshopper models](https://github.com/graphroots/GraphRootsApi#run) that writes snapshots through the GraphQL API
+* An [explorer for visualizing](https://github.com/graphroots/GraphRootsViewer) the imported data
 
-The functionality of these client applications will be inspired by the [Spaghettarium hack](https://github.com/romtecmax/Spaghettarium).
+The functionality of the client application was be inspired by the [Spaghettarium hack](https://github.com/romtecmax/Spaghettarium).
 
 ## Where will this go?
 
