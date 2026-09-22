@@ -14,15 +14,15 @@ Besides our shared interests and passions, we also share some frustrations and i
 
 ## What
 
-We miss modern possibilities to collaborate on parametric models.
+* We miss modern possibilities to collaborate on parametric models.
 
-There are some tools that address versioning of parametric models. We are not satisfied with the current approaches and believe there’s room to do much better.
+* There are some tools that address versioning of parametric models. We are not satisfied with the current approaches and believe there’s room to do much better.
 
-Currently there is no open standard for storing parametric models. Among other issues, this makes it difficult to access and reuse the knowledge buried in years of parametric model files. This is especially important for graph machine learning and agentic parametric modeling workflows.
+* Currently there is no open standard for storing parametric models. Among other issues, this makes it difficult to access and reuse the knowledge buried in years of parametric model files. This is especially important for graph machine learning and agentic parametric modeling workflows.
 
-There are no open cloud-native solvers for the types of parametric models we are interested in. Such solvers could be distributed among different machines, CAD kernels, and environments, while also supporting parallel computation depending on the graph structure.
+* There are no open cloud-native solvers for the types of parametric models we are interested in. Such solvers could be distributed among different machines, CAD kernels, and environments, while also supporting parallel computation depending on the graph structure.
 
-The extension mechanisms for existing parametric modelers have strong limitations (the classic plugin and dependency mess).
+* The extension mechanisms for existing parametric modelers have strong limitations (the classic plugin and dependency mess).
 
 ## Where do we start?
 
