@@ -8,6 +8,8 @@ We are GraphRoots, a consortium of companies, institutions, and individuals inte
 * We create digital tools.
 * We enjoy challenging the status quo and shaping the future.
 
+<a href="https://www.shapediver.com"><img src="assets/ShapeDiver-logo.png" alt="ShapeDiver" height="110"></a> <a href="https://iaac.net"><img src="assets/IAAC-logo.jpg" alt="IAAC" height="110"></a>
+
 ## Why
 
 Besides our shared interests and passions, we also share some frustrations and ideas on the future. We figured that collaborating on them would benefit not just us but a broader global audience.
